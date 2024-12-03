@@ -23,14 +23,23 @@ Exibe o grafo com pesos e rótulos de vértices e arestas.
 # Como Executar
 
 1. Instalar Dependências
+
 O código utiliza as bibliotecas matplotlib e networkx. Para instalá-las, execute:
+_pip install matplotlib networkx_
+
+
 2. Rodar o Programa
+
 O código é interativo e executado via terminal.
 Ao rodar o script, um menu será exibido com opções para manipular o grafo.
+
 3. Interação com o Menu
+
 O menu interativo permite adicionar vértices, arestas, e rotular/ponderar arestas.
 É possível realizar verificações sobre o grafo (como se ele é conexo, regular, etc.) e visualizar o grafo gerado.
+
 4. Visualização do Grafo
+
 Após as operações, o grafo pode ser visualizado com a função desenhar_grafo(), que gera um gráfico utilizando matplotlib.
 
 # Contribuições
