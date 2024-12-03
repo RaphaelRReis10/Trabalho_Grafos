@@ -25,6 +25,7 @@ Exibe o grafo com pesos e rótulos de vértices e arestas.
 1. Instalar Dependências
 
 O código utiliza as bibliotecas matplotlib e networkx. Para instalá-las, execute:
+
 _pip install matplotlib networkx_
 
 
